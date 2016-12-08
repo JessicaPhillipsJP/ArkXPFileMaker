@@ -25,10 +25,10 @@ public class WriteOut {
 		}
 		
 	}
-	public static void main(String[] args){
-		WriteOut out = new WriteOut();
-		out.xpOverride();
-		out.engramOverride();
-	}
+//	public static void main(String[] args){
+//		WriteOut out = new WriteOut();
+//		out.xpOverride();
+//		out.engramOverride();
+//	}
 
 }
